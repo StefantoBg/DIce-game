@@ -3,7 +3,14 @@
   margin: auto;
   text-align: center;
 }
+h2{
+  color: aqua;
+}
+footer{
 
+  font-size: 2rem;  
+
+}
 .dice {
   text-align: center;
   display: inline-block;
